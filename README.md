@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pitter Smith</h1>
 <h3 align="center">Full-Stack and Building Mobile Apps with React Native: A Senior Developer's Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muku534&label=Profile%20views&color=0e75b6&style=flat" alt="muku534" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muku534&label=Profile%20views&color=0e75b6&style=flat" alt="top-dev0810" /> </p>
 
 
 - 🌱 As a Junior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
