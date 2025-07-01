@@ -5,7 +5,7 @@
 
 
 - 🌱 As a Junior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
-- 👨‍💻 All of my projects are available at [muku534](https://github.com/top-dev0810/)
+- 👨‍💻 All of my projects are available at [top-dev0810](https://github.com/top-dev0810/)
 
 - 📫 How to reach me **victory0810.k@gmail.com**
 
