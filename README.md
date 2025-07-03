@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Pitter Smith
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hi, I'm Pitter Smith</h1>
+</div>
 
 ### 🚀 Full-Stack Developer | React Native, Next.js, Node.js | Building Scalable Web & Mobile Apps
 
----
+ <div>
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  </div>
 
 🔧 I specialize in creating clean, responsive, and scalable apps using the modern JavaScript stack — from backend APIs to mobile UIs.
 
