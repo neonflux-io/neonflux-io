@@ -1,55 +1,45 @@
-<div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hi, I'm Pitter Smith</h1>
-</div>
-
-### 🚀 Full-Stack Developer | React Native, Next.js, Node.js | Building Scalable Web & Mobile Apps
-
- <div>
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </div>
-
-🔧 I specialize in creating clean, responsive, and scalable apps using the modern JavaScript stack — from backend APIs to mobile UIs.
-
-📱 **Currently Focused On:**  
-- Cross-platform mobile apps with **React Native** and **Expo**  
-- Full-stack development using **Next.js**, **Node.js**, **Supabase**, and **Firebase**  
-- Performance, accessibility, and great developer experience
-
----
-
-### 🧠 About Me
-
-- 🎓 Junior Full Stack Developer — always improving, learning, and building.
-- 🛠 I love turning ideas into real-world apps and collaborating with passionate teams.
-- 🌍 Open to remote freelance and contract opportunities.
-
----
-
-### 📂 Projects & Links
-
-- 📁 My code & projects: [top-dev0810](https://github.com/top-dev0810)
-- 🌐 Portfolio: [https://about-me-gold-three.vercel.app](https://about-me-gold-three.vercel.app)
-- 📬 Contact me: [victory0810.k@gmail.com](mailto:victory0810.k@gmail.com)
-
----
-
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<!-- HEADER WITH TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Pitter+Smith;Full-Stack+Developer+%F0%9F%9A%80" />
 </p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=top-dev0810&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=top-dev0810&theme=radical" width="48%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
+
+---
+
+### 🧙‍♂️ Who Am I?
+
+```yaml
+name: Pitter Smith
+role: Full Stack Developer
+interests:
+  - Mobile apps with React Native
+  - Beautiful web UIs with Next.js
+  - Supabase-powered backends
+  - Scalable SaaS platforms
+```
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript,nodejs,supabase,firebase,python,vercel,github" /> </p>
+<!-- 
+🌈 Featured Project – RentDemo
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=8E2DE2,FF61D6&height=160&section=header&text=RentDemo&fontSize=45&fontAlign=50&fontColor=ffffff" /> </p>
+🏢 A white-label, multi-tenant SaaS platform for apartment buildings.
+💡 Features include:
+Custom-branded mobile apps
+Admin dashboards for building managers
+Stripe payments, maintenance tickets, push notifications, and more. 
+-->
+
+<p align="center"> <a href="https://about-me-gold-three.vercel.app"> <img src="https://img.shields.io/badge/🌐%20Live%20Preview-FF61D6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+
+<p align="center"> <a href="https://about-me-gold-three.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-00cc99?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+📊 GitHub Stats (Gradient Mode)
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=top-dev0810&show_icons=true&theme=react&hide_border=true&border_radius=10" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=top-dev0810&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+🏆 Trophy Wall
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=top-dev0810&theme=gruvbox&column=6&margin-w=8&no-bg=true&no-frame=true" /> </p>
+🔗 Connect With Me
+<p align="center"> <a href="mailto:victory0810.k@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/top-dev0810"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://about-me-gold-three.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+⚡ Magic Quote
+<p align="center"><i>"Don’t just code it. Craft it."</i></p> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61D6,8E2DE2&height=100&section=footer"/> </p>
