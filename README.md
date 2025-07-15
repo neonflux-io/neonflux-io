@@ -1,6 +1,6 @@
 <!-- HEADER WITH TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Pitter+Smith;Full-Stack+Developer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Kito+Yaroshi;Full-Stack+Developer+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 🧙‍♂️ Who Am I?
 
 ```yaml
-name: Pitter Smith
+name: Kito Yaroshi
 role: Full Stack Developer
 interests:
   - Mobile apps with React Native
