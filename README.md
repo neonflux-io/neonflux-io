@@ -13,6 +13,7 @@
 
 ```yaml
 name: Hikaru Saito
+location: Osaka, Japan
 role: Full Stack Developer
 interests:
   - Mobile apps with React Native
