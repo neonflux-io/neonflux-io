@@ -1,6 +1,6 @@
 <!-- HEADER WITH TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Hikaru+Saito;Full-Stack+Developer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Haruki+Yarashi;Full-Stack+Developer+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 🧙‍♂️ Who Am I?
 
 ```yaml
-name: Hikaru Saito
+name: Haruki Yarashi
 role: Full Stack Developer
 interests:
   - Mobile apps with React Native
