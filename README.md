@@ -21,7 +21,7 @@ interests:
   - Scalable SaaS platforms
 ```
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript,nodejs,supabase,firebase,python,vercel,github" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,supabase,firebase,python,vercel,github,mongodb,php,javascript,vue,angular" /> </p>
 <!-- 
 🌈 Featured Project – RentDemo
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=8E2DE2,FF61D6&height=160&section=header&text=RentDemo&fontSize=45&fontAlign=50&fontColor=ffffff" /> </p>
