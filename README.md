@@ -12,7 +12,7 @@
 ### 🧙‍♂️ Who Am I?
 
 ```yaml
-name: Hikaru Saito
+name: Akmaljon Safarov
 role: Full Stack Developer
 interests:
   - Mobile apps with React Native
