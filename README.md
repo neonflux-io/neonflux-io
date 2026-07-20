@@ -3,5 +3,3 @@
 </div>
 
 <h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
-
-</div>
